@@ -31,7 +31,8 @@ void bubbleSortMED (int n, double array[]){
 int main() {
     static int array[SIZE];
     int i, j, temp;
-    double times[100];
+    double times[100];	
+    int i = 0;
 
     
     srand(time(NULL)); 

@@ -33,6 +33,12 @@ int main() {
     int i, j, temp;
     double times[100];	
     int i = 0;
+	ffffffffffff
+	f
+	fff
+	fffffff
+	f
+	ffff
 
     
     srand(time(NULL)); 
